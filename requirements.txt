@@ -1,0 +1,6 @@
+numpy==1.23.5
+matplotlib==3.7.2
+torch==2.0.1
+tqdm==4.66.1
+tensorboard==2.13.0
+jupyterlab==4.0.6
